@@ -1,0 +1,8 @@
+source "F:/esp_idf_5/.espressif/v5.5.4/esp-idf/components/bootloader/Kconfig.projbuild"
+source "F:/esp_idf_5/.espressif/v5.5.4/esp-idf/components/esp_app_format/Kconfig.projbuild"
+source "F:/esp_idf_5/.espressif/v5.5.4/esp-idf/components/esp_rom/Kconfig.projbuild"
+source "F:/esp_idf_5/.espressif/v5.5.4/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "F:/esp_idf_5/.espressif/v5.5.4/esp-idf/components/partition_table/Kconfig.projbuild"
+source "F:/project/banhang/2026/IOT/rainMarket/esPLC/main/Kconfig.projbuild"
+source "F:/project/banhang/2026/IOT/rainMarket/esPLC/managed_components/espressif__esp_rainmaker/Kconfig.projbuild"
+source "F:/project/banhang/2026/IOT/rainMarket/esPLC/managed_components/espressif__rmaker_app_network/Kconfig.projbuild"
